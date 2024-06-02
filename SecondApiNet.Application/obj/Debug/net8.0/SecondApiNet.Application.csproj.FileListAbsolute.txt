@@ -1,0 +1,16 @@
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/bin/Debug/net8.0/SecondApiNet.Application.deps.json
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/bin/Debug/net8.0/SecondApiNet.Application.dll
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/bin/Debug/net8.0/SecondApiNet.Application.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.AssemblyInfoInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.AssemblyInfo.cs
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.csproj.CoreCompileInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.sourcelink.json
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.dll
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/refint/SecondApiNet.Application.dll
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/ref/SecondApiNet.Application.dll
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/bin/Debug/net8.0/SecondApiNet.Communication.dll
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/bin/Debug/net8.0/SecondApiNet.Communication.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondApiNet.Application.csproj.AssemblyReference.cache
+/Users/marcelovalderramacorrea/Documents/projetos/segunda-api-net/SecondApiNet.Application/obj/Debug/net8.0/SecondAp.137F3D94.Up2Date

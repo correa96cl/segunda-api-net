@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ofwzJWreotXZgx0qFKVBWabSMc2sDmGw5k/TYRVpBM=",
+  "Source": "SecondApiNet.API",
+  "BasePath": "_content/SecondApiNet.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
